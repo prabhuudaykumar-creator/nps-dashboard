@@ -1,0 +1,60 @@
+email,full_name,employee_code,department,is_admin,allowed_domains
+ajay.rao@bialairport.com,Ajay Rao,103713,Digital,True,ALL
+ajinkya.m@bialairport.com,Ajinkya Mukund Jangale,103466,Operations,False,Cab
+akash.a@bialairport.com,Akash Awasthi,102268,Digital,True,ALL
+alphin.j@bialairport.com,Alphin Infant J,102013,Operations,False,Cab
+amit.paul@bialairport.com,Amit Vijay Paul,103431,Operations,False,Retail
+anand.v@bialairport.com,Anand Viswanath,103352,Digital,True,ALL
+anindita@bialairport.com,Anindita Sengupta,101579,CCO,True,ALL
+ashish.b@bialairport.com,Ashish Bakshi,102325,BASL,False,080Cafe|TransitHotel|SpaSalon|Lounge
+avinash.b@bialairport.com,Avinash B,102377,Operations,False,Cab
+avishek@bialairport.com,Avishek Das,103587,DutyFree,False,Duty Free
+bhupender.r@bialairport.com,Bhupender Singh Rana,103522,Operations,False,Retail
+dipti@bialairport.com,Dipti Gupta,101681,Operations,False,FnB
+dominic@bialairport.com,Dominic Devasia,101814,Operations,True,ALL
+durairaj@bialairport.com,Durairaj M,102745,Operations,False,Cab
+george.k@bialairport.com,George Bennet Kuruvilla,103341,BASL,False,080Cafe|TransitHotel|SpaSalon|Lounge
+jitender.k@bialairport.com,Jitender Kallappa Dhule,103382,Operations,False,Cab
+kaustuv@bialairport.com,Kaustuv Roy,102734,Operations,False,Retail
+kenneth@bialairport.com,Kenneth Rosvang Guldbjerg,101657,CCO,True,ALL
+kiran.bk@bialairport.com,Kiran Kumar B,103479,Operations,False,Cab
+kiran.kb@bialairport.com,Kiran Kumar B M,103343,Digital,True,ALL
+lingaraju.b@bialairport.com,Lingaraju BS,103500,Operations,False,Cab
+manjappagowda.c@bialairport.com,Manjappa Gowda C S,103554,Operations,True,ALL
+manoj.hs@bialairport.com,Manoj Hodigere Somashekhrappa,103607,Operations,False,Cab
+midhun@bialairport.com,Midhun Raveendranath,102684,DutyFree,False,Duty Free
+javeed@bialairport.com,Mohammed Javeed,101604,Operations,False,Retail
+munegowda@bialairport.com,Munegowda K V,102810,Operations,False,Cab
+musthaq@bialairport.com,Musthaq Ahamed,102466,Digital,True,ALL
+naveenkumar.cj@bialairport.com,Naveen Kumar C J,102666,Operations,False,Cab
+neeraj.m@bialairport.com,Neeraj Manoria,102149,Digital,True,ALL
+neeraj.p@bialairport.com,Neeraj Prakash,102754,CCO,True,ALL
+noel@bialairport.com,Noel Patrick Lewis,101474,CCB,False,CBB
+prabhu@bialairport.com,Prabhu U,102923,Operations,True,ALL
+pradip.p@bialairport.com,Pradip Poria,103369,CCB,False,CBB
+raghavendra.p@bialairport.com,Raghavendra Patil,103443,Operations,False,Cab
+rohan.c@bialairport.com,Rohan Choudhury,103743,Operations,False,FnB
+sambasiva@bialairport.com,Sambasiva C,101241,Operations,False,Cab
+sanjaychandra@bialairport.com,Sanjay Chandra B,100893,Operations,False,Cab
+sanjay.prasad@bialairport.com,Sanjay Prasad,102744,Operations,False,FnB
+shankarendra.m@bialairport.com,Shankarendra M,103433,Operations,False,Cab
+sharath.s@bialairport.com,Sharath Srirama,103698,Digital,True,ALL
+shiva@bialairport.com,Shiva Kumar K,102598,Operations,False,Cab
+shreedhar@bialairport.com,Shreedhar Babu R,102192,BASL,False,080Cafe|TransitHotel|SpaSalon|Lounge
+somashekharappa@bialairport.com,SOMASHEKHARAPPA C. J.,103521,Operations,False,Cab
+srikanth@bialairport.com,Srikanth B,103247,BASL,False,080Cafe|TransitHotel|SpaSalon|Lounge
+srikanth.v@bialairport.com,Srikanth V,101653,Operations,False,Cab
+stephen@bialairport.com,Stephen Alphonse Raj J,101314,Operations,False,Cab
+sunil.benni@bialairport.com,Sunil Benni,103387,Operations,False,Cab
+suresh.mv@bialairport.com,Suresh Babu M V,103715,Operations,False,Cab
+syedazhar@bialairport.com,Syed Azhar Hassan,100849,Operations,False,Cab
+syed.sameeruddin@bialairport.com,Syed Sameeruddin,102661,Operations,False,Cab
+praveen.t@bialairport.com,T S Praveen,103742,Operations,False,Cab
+vaibhav.mohan@bialairport.com,Vaibhav Mohan,103798,Operations,True,ALL
+vaishakh@bialairport.com,Vaishakh T,103811,DutyFree,False,Duty Free
+vanishri@bialairport.com,Vanishri A,100484,Digital,True,ALL
+vasudevamurthy@bialairport.com,Vasudevamurthy H B,102735,Operations,False,Cab
+veeresh.ma@bialairport.com,Veeresh M A,800027,Operations,True,ALL
+vinoth.kumar@bialairport.com,Vinoth Kumar R,102785,Operations,False,FnB
+vipin.c@bialairport.com,Vipin Chengappa Konerira,103386,Operations,False,Cab
+yogesha.gg@bialairport.com,Yogesha G G,102370,Operations,False,Cab
